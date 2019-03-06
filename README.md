@@ -1,2 +1,2 @@
 # MongooseLibTemplate
-A simple template for a MJS-enabled Mongoose OS library.
+A simple template for an MJS-enabled Mongoose OS library.
