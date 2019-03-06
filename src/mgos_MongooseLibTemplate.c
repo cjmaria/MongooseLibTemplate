@@ -8,6 +8,6 @@ bool mgos_MongooseLibTemplate_init(void) {
 }
 
 // Example function
-int addTest(int a, int b){
+int add(int a, int b){
     return a + b;
 }
